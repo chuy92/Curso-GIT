@@ -1,1 +1,1 @@
-print("apagar")
+print("apagar laptop")
